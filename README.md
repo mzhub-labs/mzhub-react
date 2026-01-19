@@ -237,4 +237,4 @@ MIT
 
 ---
 
-**DISCLAIMER**: Do not use Synapse for financial, medical, or safety-critical decisions. AI output can be incorrect. The authors are not liable for damages arising from AI-generated content.
+**DISCLAIMER**: Do not use Mzhub/React for financial, medical, or safety-critical decisions. AI output can be incorrect. The authors are not liable for damages arising from AI-generated content.
